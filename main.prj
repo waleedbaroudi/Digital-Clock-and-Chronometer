@@ -1,0 +1,7 @@
+vhdl work "slowerClock.vhd"
+vhdl work "driver.vhd"
+vhdl work "decoder.vhd"
+vhdl work "../../sources/debouncing/debounce_v1.vhd"
+vhdl work "sevenSegment.vhd"
+vhdl work "clk_divider.vhd"
+vhdl work "main.vhd"

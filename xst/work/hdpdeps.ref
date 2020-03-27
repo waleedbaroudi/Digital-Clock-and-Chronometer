@@ -1,0 +1,62 @@
+V3 30
+FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/clk_divider.vhd" 2019/11/29.13:43:13 P.20131013
+EN work/clk_divider 1575200950 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/clk_divider.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/clk_divider/Behavioral 1575200951 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/clk_divider.vhd" \
+      EN work/clk_divider 1575200950
+FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/decoder.vhd" 2019/09/09.03:01:52 P.20131013
+EN work/decoder 1575200944 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/decoder.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/decoder/Behavioral 1575200945 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/decoder.vhd" \
+      EN work/decoder 1575200944
+FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/driver.vhd" 2019/09/09.22:06:20 P.20131013
+EN work/driver 1575200942 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/driver.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181 PB ieee/std_logic_arith 1381692177
+AR work/driver/Behavioral 1575200943 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/driver.vhd" \
+      EN work/driver 1575200942
+FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/main.vhd" 2019/11/29.11:17:41 P.20131013
+EN work/main 1575200952 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/main.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/main/Behavioral 1575200953 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/main.vhd" \
+      EN work/main 1575200952 CP sevenSegment CP debounce CP clk_divider
+FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/sevenSegment.vhd" 2019/09/09.22:02:48 P.20131013
+EN work/sevenSegment 1575200946 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/sevenSegment.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/sevenSegment/Behavioral 1575200947 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/sevenSegment.vhd" \
+      EN work/sevenSegment 1575200946 CP work/slowerClock CP work/driver \
+      CP work/decoder
+FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/slowerClock.vhd" 2019/11/25.17:03:24 P.20131013
+EN work/slowerClock 1575200940 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/slowerClock.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/slowerClock/Behavioral 1575200941 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/slowerClock.vhd" \
+      EN work/slowerClock 1575200940
+FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/twoBitAdder.vhd" 2019/11/24.21:30:02 P.20131013
+EN work/twoBitAdder 1574621643 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/twoBitAdder.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/twoBitAdder/Behavioral 1574621644 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/twoBitAdder.vhd" \
+      EN work/twoBitAdder 1574621643
+FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/sources/debouncing/debounce_v1.vhd" 2019/09/18.03:00:41 P.20131013
+EN work/debounce 1575200948 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/sources/debouncing/debounce_v1.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/debounce/logic 1575200949 \
+      FL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/sources/debouncing/debounce_v1.vhd" \
+      EN work/debounce 1575200948

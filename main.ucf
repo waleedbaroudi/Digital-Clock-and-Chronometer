@@ -1,0 +1,25 @@
+NET "SevenSegcontrolMod[0]" LOC = P50;
+NET "SevenSegcontrolMod[1]" LOC = P49;
+NET "SevenSegcontrolMod[2]" LOC = P52;
+NET "SevenSegcontrolMod[3]" LOC = P56;
+NET "SevenSegcontrolMod[4]" LOC = P59;
+NET "SevenSegcontrolMod[5]" LOC = P57;
+NET "SevenSegcontrolMod[6]" LOC = P60;
+NET "SevenSegcontrolMod[7]" LOC = P61;
+
+NET "SevenSegbusMod[7]" LOC = P71;
+NET "SevenSegbusMod[6]" LOC = P62;
+NET "SevenSegbusMod[5]" LOC = P65;
+NET "SevenSegbusMod[4]" LOC = P72;
+NET "SevenSegbusMod[3]" LOC = P73;
+NET "SevenSegbusMod[2]" LOC = P98;
+NET "SevenSegbusMod[1]" LOC = P64;
+NET "SevenSegbusMod[0]" LOC = P70;
+
+NET "clk" LOC = P40;
+
+NET "reset" LOC = P34;
+NET "pause" LOC = P33;
+
+NET "downward" LOC = P12;
+NET "chronToClock" LOC = P15;

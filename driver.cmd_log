@@ -1,0 +1,1 @@
+vhdtdtfi -prj practice -o "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/driver.vhi" -module driver -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work driver.vhd 

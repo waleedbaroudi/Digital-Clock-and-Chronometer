@@ -1,0 +1,1 @@
+vhdtdtfi -prj practice -o "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/clk_divider.vhi" -module clk_divider -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work clk_divider.vhd 

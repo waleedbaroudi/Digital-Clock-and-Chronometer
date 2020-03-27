@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/xst"
+elaborate
+-ifn twoBitAdder.prj
+-ifmt mixed

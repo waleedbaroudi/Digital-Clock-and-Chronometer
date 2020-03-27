@@ -1,0 +1,16 @@
+AR slowerclock behavioral "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/slowerClock.vhd" sub00/vhpl01 1575200941
+AR sevensegment behavioral "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/sevenSegment.vhd" sub00/vhpl07 1575200947
+AR driver behavioral "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/driver.vhd" sub00/vhpl03 1575200943
+AR main behavioral "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/main.vhd" sub00/vhpl09 1575200953
+EN slowerclock NULL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/slowerClock.vhd" sub00/vhpl00 1575200940
+AR clk_divider behavioral "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/clk_divider.vhd" sub00/vhpl13 1575200951
+EN clk_divider NULL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/clk_divider.vhd" sub00/vhpl12 1575200950
+EN debounce NULL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/sources/debouncing/debounce_v1.vhd" sub00/vhpl14 1575200948
+AR decoder behavioral "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/decoder.vhd" sub00/vhpl05 1575200945
+EN main NULL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/main.vhd" sub00/vhpl08 1575200952
+EN sevensegment NULL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/sevenSegment.vhd" sub00/vhpl06 1575200946
+AR debounce logic "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/sources/debouncing/debounce_v1.vhd" sub00/vhpl15 1575200949
+AR twobitadder behavioral "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/twoBitAdder.vhd" sub00/vhpl11 1574621644
+EN twobitadder NULL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/twoBitAdder.vhd" sub00/vhpl10 1574621643
+EN driver NULL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/driver.vhd" sub00/vhpl02 1575200942
+EN decoder NULL "C:/Users/walee/Desktop/UNIV materials/ELEC204/Projects/Practice/practice/decoder.vhd" sub00/vhpl04 1575200944
